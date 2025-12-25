@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "alg": "HS256",
+      "k": "F5Cg9kvqIiG6MDUSGR_uJcBitSy6y41CbizKixMcErE",
+      "kty": "oct",
+      "kid": "mytestkey",
+      "use": "sig"
+    }
+  ]
+}
