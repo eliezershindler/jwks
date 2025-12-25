@@ -4,7 +4,7 @@
       "kty": "oct",
       "kid": "key-0",
       "alg": "HS256",
-      "k": "STVlQ0gxQnNTNVpyR3J6SXlZa2Q5R2s2RjA1aGdwSnM"
+      "k": "base64clientsecret"
     }
   ]
 }
